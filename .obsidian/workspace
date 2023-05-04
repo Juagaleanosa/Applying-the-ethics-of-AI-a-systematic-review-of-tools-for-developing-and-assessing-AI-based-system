@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "cf59b9030dfe1f52",
+    "type": "split",
+    "children": [
+      {
+        "id": "239d8f06c5b36aa7",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c8cd00da3dadaf55",
+    "type": "split",
+    "children": [
+      {
+        "id": "af2ef94654567ab8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ac8284ab6948d63",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a5c49294a21d3956",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "162fa35f87e1a997",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 177
+  },
+  "right": {
+    "id": "1629227249426655",
+    "type": "split",
+    "children": [
+      {
+        "id": "e95340f423fddeea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f47a0231918061b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3a1d3427493a8814",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d3fcca197f844b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a1dc74d8eb33d61",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "active": "6ac8284ab6948d63",
+  "lastOpenFiles": [
+    "IEEE/P20.md",
+    "IEEE/P18.md",
+    "IEEE/P19.md",
+    "Google Scholar/P12.md",
+    "Fair.md",
+    "IEEE/P21.md",
+    "Google Scholar/P17.md",
+    "Recording 20221006171902.webm",
+    "IEEE/P24.md",
+    "Transparency.md"
+  ]
+}

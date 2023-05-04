@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "cf59b9030dfe1f52",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a83fbefaa9383e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bda2a5a3b5e0a04",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "650ab42430e45738",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8f0d895cb0ee67e0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f3274bf44c11e2db",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4ea413cb6a5afa9f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "09d2da7edba8c0b2",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d59f127e8e99d8f4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "83ed1d8d1ab69670",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "775b3643ff2c1e21",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "933c4cfb88f9087c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "4bda2a5a3b5e0a04",
+  "lastOpenFiles": [
+    "IEEE/P18.md",
+    "data poisoning.md",
+    "IEEE/P19.md",
+    "Ethics by design.md",
+    "IEEE/P20.md",
+    "IEEE/P25.md",
+    "Bias.md",
+    "IEEE/P22.md",
+    "Plantillas/Revisión Paper.md"
+  ]
+}
