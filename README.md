@@ -1,2 +1,2 @@
 # Ethical-I.A-Paper
- Documentación por títulos de artículo de revsión de la ética para la inteligencia artificial.
+ This repository contain the documentation by titles from the ethical for the artificial intelligence, files in md extension, which is possible visualice in software Markdown, for example Osdidian. The material join the peper for the review article public in the Springer magazine (Put the link)   
