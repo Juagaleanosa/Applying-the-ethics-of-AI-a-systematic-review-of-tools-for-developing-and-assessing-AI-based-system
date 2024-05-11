@@ -1,2 +1,2 @@
 # Ethical-I.A-Paper
- This repository contain the documentation by titles from the ethical for the artificial intelligence, files in md extension, which is possible visualice in software Markdown, for example Osdidian. The material join the peper for the review article public in the Springer magazine (Put the link)   
+  This repository contains documentation by titles of ethics for artificial intelligence, files in md extension, which is possible to view in Markdown software, e.g. Osdidian. The material contributes to the peper for the open review article in the journal Springer entitled ([Applying the ethics of AI: a systematic review of tools for developing and assessing AI-based systems](https://link.springer.com/article/10.1007/s10462-024-10740-3))   
